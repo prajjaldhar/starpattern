@@ -1,0 +1,15 @@
+{
+  "name": "printing_stars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "printing_star.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin":{
+    "star_cmd":"printing_star.js"
+  }
+}
